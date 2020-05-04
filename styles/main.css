@@ -10,7 +10,7 @@ body {
 
 @media only screen and (min-width: 1200px) {
   .container {
-    grid-template-columns: repeat(auto-fit, minmax(301px, 1fr)); } }
+    grid-template-columns: repeat(3, 1fr); } }
 
 div {
   height: 300px;
